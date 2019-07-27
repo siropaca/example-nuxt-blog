@@ -39,6 +39,9 @@ module.exports = {
       }
     }
   },
+  router: {
+      base: '/nuxt_blog/'
+  },
   generate: {
     routes(callback) {
       const posts = require('./posts.json')
