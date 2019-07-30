@@ -1,4 +1,4 @@
-# nuxt-blog-test
+# nuxt_blog_test
 
 > Nuxt.js blog test.
 
