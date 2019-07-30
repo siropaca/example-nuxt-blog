@@ -40,7 +40,7 @@ module.exports = {
     }
   },
   router: {
-      base: '/nuxt_blog/'
+      base: '/test_nuxt_blog/'
   },
   generate: {
     routes(callback) {
