@@ -1,6 +1,6 @@
-# test-nuxt-blog
+# example-nuxt-blog
 
-> Nuxt.js blog test.
+> Nuxt.js blog example.
 
 ## Build Setup
 
@@ -20,4 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
